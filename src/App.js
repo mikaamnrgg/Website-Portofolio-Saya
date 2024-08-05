@@ -6,26 +6,26 @@ import {
   Navigate
 } from "react-router-dom";
 
-import Home from './pages/Home'
-import Skill from './pages/Skillset'
-import Project from './pages/Projects'
-import Contact from './pages/Contact'
+import Home from './pages/Home';
+import Skill from './pages/Skillset';
+import Project from './pages/Projects';
+import Contact from './pages/Contact';
 
 import Navbar from "./components/Navbar/Navbar";
 import Footer from "./components/Footer/Footer";
-import Preloader from "./components/PreLoader"
-import ScrollToTop from "./components/ScrollToTop"
+import Preloader from "./components/PreLoader";
+import ScrollToTop from "./components/ScrollToTop";
 
 import "./App.css";
 import "./style.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
-  const [load, upadateLoad] = useState(true);
+  const [load, updateLoad] = useState(true); // Perbaiki nama fungsi state
 
   useEffect(() => {
     const timer = setTimeout(() => {
-      upadateLoad(false);
+      updateLoad(false); // Perbaiki nama fungsi state
     }, 1200);
 
     return () => clearTimeout(timer);
@@ -42,7 +42,7 @@ function App() {
           <Route path="/skillset" element={<Skill />} />
           <Route path="/project" element={<Project />} />
           <Route path="/contact" element={<Contact />} />
-          <Route path="*" element={<Navigate to="/"/>} />
+          <Route path="*" element={<Navigate to="/" />} /> {/* Halaman fallback */}
         </Routes>
         <Footer />
       </div>
