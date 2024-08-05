@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mikaamnrgg/website-portofolio-saya/static/css/main.d7cb9136.css",
+    "main.js": "/mikaamnrgg/website-portofolio-saya/static/js/main.dc8c9e72.js",
+    "static/media/home-main.png": "/mikaamnrgg/website-portofolio-saya/static/media/home-main.ec1783b3e639f5c94236.png",
+    "static/media/Project1.jpg": "/mikaamnrgg/website-portofolio-saya/static/media/Project1.2601a93aa65752ef930b.jpg",
+    "static/media/about.png": "/mikaamnrgg/website-portofolio-saya/static/media/about.c225a11200d0d0acc60e.png",
+    "static/media/Project2.jpg": "/mikaamnrgg/website-portofolio-saya/static/media/Project2.7cbca9b6558fa1f85a7d.jpg",
+    "static/media/sLogo.png": "/mikaamnrgg/website-portofolio-saya/static/media/sLogo.6bde8a82d0d9b47d96ca.png",
+    "static/media/home-bg.jpg": "/mikaamnrgg/website-portofolio-saya/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/mikaamnrgg/website-portofolio-saya/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/mikaamnrgg/website-portofolio-saya/index.html",
+    "main.d7cb9136.css.map": "/mikaamnrgg/website-portofolio-saya/static/css/main.d7cb9136.css.map",
+    "main.dc8c9e72.js.map": "/mikaamnrgg/website-portofolio-saya/static/js/main.dc8c9e72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7cb9136.css",
+    "static/js/main.dc8c9e72.js"
+  ]
+}
