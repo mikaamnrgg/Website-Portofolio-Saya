@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mikaamnrgg/website-portofolio-saya/static/css/main.d7cb9136.css",
-    "main.js": "/mikaamnrgg/website-portofolio-saya/static/js/main.00a1cfa7.js",
+    "main.js": "/mikaamnrgg/website-portofolio-saya/static/js/main.5d363929.js",
     "static/media/home-main.png": "/mikaamnrgg/website-portofolio-saya/static/media/home-main.ec1783b3e639f5c94236.png",
     "static/media/Project1.jpg": "/mikaamnrgg/website-portofolio-saya/static/media/Project1.2601a93aa65752ef930b.jpg",
     "static/media/about.png": "/mikaamnrgg/website-portofolio-saya/static/media/about.c225a11200d0d0acc60e.png",
@@ -11,10 +11,10 @@
     "static/media/pre.svg": "/mikaamnrgg/website-portofolio-saya/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/mikaamnrgg/website-portofolio-saya/index.html",
     "main.d7cb9136.css.map": "/mikaamnrgg/website-portofolio-saya/static/css/main.d7cb9136.css.map",
-    "main.00a1cfa7.js.map": "/mikaamnrgg/website-portofolio-saya/static/js/main.00a1cfa7.js.map"
+    "main.5d363929.js.map": "/mikaamnrgg/website-portofolio-saya/static/js/main.5d363929.js.map"
   },
   "entrypoints": [
     "static/css/main.d7cb9136.css",
-    "static/js/main.00a1cfa7.js"
+    "static/js/main.5d363929.js"
   ]
 }
